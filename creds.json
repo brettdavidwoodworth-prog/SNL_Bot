@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "snl-bot-468212",
+  "private_key_id": "8934a1009ba3c252d67420b7e5b078238c127689",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/SX0nDlZVMJeu\nJ5V60EML6+qVyD6GG0o9yijkVt/GLVep0hJZ9LExFkaNuMynqwgJ/jbtRLZ3G3o1\n8zRj/OEPzdg0078gjuC3A+Hp4ZCubZTvthOjvzXCXTnf1R5s3xw/YhC9kIZ10S68\nBH9cgvOv84l3RFSumW3HQtIv3eMq7dslxuxw8I5qqqDhRp9tUfHNAyAGY/nAhkz+\nIfAmcDYaqhduqrHyd9dEOhjtyuI6aLJp0Hrvoppyo+4L87dplBWNnXQpPbHJ3zTb\nAR9wesPACRv3jJeFYGbNOEEb8yhIA2QSacL+aIqAt8keU/iZUNuhirfhdEjAZBbP\nNht6NuDRAgMBAAECggEAEwzPzreuD+JcvL6a86Xxg2qtjFiqp2Lo4CH1tBXVx9AE\nsrgl1TkZ+2w/PwZ4NTuCe7JKSJNnA5IkN+K+ZTXOOSt0HIC5AFZSWU+k7EynQsPN\niRjuOEjG4xIzPRAlrUyD7OkIh0RxK6MXPyjIgU9WUv/TQSI4N8I2bVmBgrxbjw8A\ndYit3YDJNy+7vtLQRDLwM72CjjiidmS3TEi8MP59sln4a0YnxGgEmZankqlGtPZ/\nd63qOvw8nxlHFOToXOhlMlRP/t5PRiS/3BTA4PRyn9F9YVGJ1EjQzEfjNHl94m2D\ntaG1y40W5PTzStEf32eZ37QENtOhbORWP3EA2FpisQKBgQDqa+gYw2mqnxICSXln\n7ooVs1qXvuzRVtetM4Dw05NdDFubTs+Hl6y7rdfb8GZElVPV8Hamy/yj8cD4JwLN\nyo9Cb1driAiwURfM6tNbZO/p8CekiL9RSgMXLw14bcUkrtefHiaJX5hqDsJZHZIw\nj9ufLTPox+YdJT6UqkA6OmqHCQKBgQDQ5SDQZUMVff69YYYzHI7LPK+mSR//KKId\nQbgSRPDsM/bPdtIh9+GDhlTbV1Fw2jYJd0RRexuFO7rvnKIueZR5vUi3sgMULt8n\n0J6IuL09XqOOA2bx7bdsTkqnP3504MlkZohg4eEfUM+5dSAqIg1LJrX8wIFTHNtu\nDRpYoXH1iQKBgBZc7OtP2Qi53BHzyG0tyGaBkabgQ99ElZakTyyqQmiiASszvYCF\n66iL0QfeSyNHy5OhOPB4jUVmjq4dqprPNBN2Y7SSaaHIWqjlzfvuCSUcD+wWT4oF\nsX3Is1RFxITXWSKI0cxRHk0f01KFC6kuUBlDSqxuRXmKUAoGo9HqOLdhAoGAIitY\nkr39myZg5Nlu+i1RrizfDnQnp7Udz2tQkKx2PCzD0mu9M5E4cism9jnyOGN5M1Mu\n+aUJe2Gp0kfsv21jvAYaPvH/Tu3b0sdtJzAQxFkWp8QmsqwPtMeZroHUTYn3Z1Te\nOfq4uEafs9ZUzI+FXSWX3yAeB1pRCk9aX+UInwECgYB2zb2VJDlKSYXyAzEuU95e\nsozrT/T4IABzRqDEQQa5axkeC4DL+qUzoGMiRc77954Sq9o22VR0jjSEejTjia8b\nNcgT6JyMCtfZU4J76TmMmE75qfxblEARbQJSK+FQ/jYS3UED5UN4n94FtdomN0H7\n+XMEEzW5OmDH5suJ5jN5pA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "snl-bot@snl-bot-468212.iam.gserviceaccount.com",
+  "client_id": "117549616994030429151",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snl-bot%40snl-bot-468212.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
