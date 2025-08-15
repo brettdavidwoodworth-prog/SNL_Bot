@@ -123,6 +123,7 @@ async def grant_daily_rolls():
 
 @grant_daily_rolls.before_loop
 async def before_daily_rolls():
+    print("Before loop is running...")  # Debug statement
     """Aligns the first run to the next closest midday or midnight Melbourne time."""
     now = datetime.utcnow() + timedelta(hours=TIMEZONE_OFFSET)
 
@@ -873,3 +874,4 @@ async def on_raw_reaction_add(payload):
         await admin_channel.send(embed=embed)
 # Start the bot
 bot.run(os.getenv("DISCORD_TOKEN"))
+
